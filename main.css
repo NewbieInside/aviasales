@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background: url(../imgs/andrey-larin-38KVyPi1gTI-unsplash.jpg) no-repeat
+    center center / cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper-select {
+  padding: 10px 20px;
+}
+
+.selector {
+  width: 150px;
+  height: 40px;
+  font-size: 16px;
+  border-radius: 50px;
+  margin-left: 10px;
+}
