@@ -6,8 +6,8 @@
 
 body {
   height: 100vh;
-  background: url(../imgs/andrey-larin-38KVyPi1gTI-unsplash.jpg) no-repeat
-    center center / cover;
+  background: url(./imgs/andrey-larin-38KVyPi1gTI-unsplash.jpg) no-repeat center
+    center / cover;
   display: flex;
   flex-direction: column;
   justify-content: center;
